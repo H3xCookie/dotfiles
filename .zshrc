@@ -17,8 +17,6 @@ alias v="nvim"
 alias ls='ls --color=auto'
 alias mv='mv -v'
 alias cp='cp -v'
-alias tor-browser="cd /home/h3x/Programs/tor-browser_en-US; ./start-tor-browser.desktop ; cd -"
-alias viber="cd /home/h3x/Programs/viber/; ./viber.AppImage; cd -"
 
 #------------------
 setopt HIST_IGNORE_ALL_DUPS
